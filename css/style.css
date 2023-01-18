@@ -234,6 +234,9 @@ header div p {
     width: 300px;
     padding-bottom: -100px;
   }
+  header div.texto {
+  font-size: 30px;
+}
 }
 
 .btn {
