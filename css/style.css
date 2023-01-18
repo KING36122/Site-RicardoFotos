@@ -45,7 +45,6 @@ nav {
   display: -ms-flex;
   display: -o-flex;
   display: flex;
-  background-color: red;
 }
 
 nav .logo {
@@ -378,6 +377,9 @@ section div a.btnS:hover {
   section div a.btnS {
     margin-top: 10px;
   }
+  section div.sSobre p {
+    font-size: 40px;
+  }
 }
 
 @media (max-width: 1090px) {
@@ -495,6 +497,9 @@ section div.text p {
 
   section div.card-body {
     margin-top: 30px;
+  }
+  section div.text p {
+    font-size: 40px;
   }
 }
 
