@@ -45,6 +45,7 @@ nav {
   display: -ms-flex;
   display: -o-flex;
   display: flex;
+  background-color: red;
 }
 
 nav .logo {
@@ -225,6 +226,9 @@ header div p {
     flex-basis: 100%;
     color: #fff;
     padding: 50px;
+  }
+  header div p {
+    font-size: 40px;
   }
 }
 
